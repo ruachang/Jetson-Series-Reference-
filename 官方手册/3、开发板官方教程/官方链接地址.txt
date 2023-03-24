@@ -1,0 +1,11 @@
+
+https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit  jetson nano入门手册
+https://www.nvidia.com/en-us/deep-learning-ai   英伟达深度学习AI网站
+https://devblogs.nvidia.com/jetson-nano-ai-computing/   英伟达开发者博客 带评测
+
+
+http://www.gpus.cn/gpus_list_page_techno_support_content?id=50  jetbot智能小车学习
+
+
+配件安装教程
+https://www.jetsonhacks.com/2019/04/08/jetson-nano-intel-wifi-and-bluetooth/  无线网卡安装教程
